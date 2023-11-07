@@ -1,0 +1,97 @@
+PODS:
+  - Alamofire (5.8.0)
+  - AlamofireImage (4.3.0):
+    - Alamofire (~> 5.8)
+  - CHTCollectionViewWaterfallLayout (0.9.10):
+    - CHTCollectionViewWaterfallLayout/Swift (= 0.9.10)
+  - CHTCollectionViewWaterfallLayout/Swift (0.9.10)
+  - GRDB.swift (6.15.1):
+    - GRDB.swift/standard (= 6.15.1)
+  - GRDB.swift/standard (6.15.1)
+  - HandyJSON (5.0.2)
+  - InputBarAccessoryView (5.5.0):
+    - InputBarAccessoryView/Core (= 5.5.0)
+  - InputBarAccessoryView/Core (5.5.0)
+  - IQKeyboardManagerSwift (6.5.12)
+  - JGProgressHUD (2.2)
+  - Kingfisher (7.9.1)
+  - LeanCloud (17.11.0):
+    - LeanCloud/RTM (= 17.11.0)
+  - LeanCloud/Foundation (17.11.0):
+    - Alamofire (~> 5.7)
+  - LeanCloud/RTM (17.11.0):
+    - GRDB.swift (~> 6.15.0)
+    - LeanCloud/Foundation (= 17.11.0)
+    - SwiftProtobuf (~> 1.22)
+  - lottie-ios (4.3.0)
+  - MessageKit (3.8.0):
+    - InputBarAccessoryView (~> 5.5.0)
+  - MHVerifyCodeView (1.0.1)
+  - SDWebImage (5.18.1):
+    - SDWebImage/Core (= 5.18.1)
+  - SDWebImage/Core (5.18.1)
+  - SKPhotoBrowser (7.1.0)
+  - SnapKit (5.6.0)
+  - SwiftProtobuf (1.23.0)
+  - TransitionButton (0.5.3)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - CHTCollectionViewWaterfallLayout
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - Kingfisher (~> 7.0)
+  - LeanCloud
+  - lottie-ios
+  - MessageKit
+  - MHVerifyCodeView
+  - SDWebImage
+  - SKPhotoBrowser
+  - SnapKit
+  - TransitionButton
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - CHTCollectionViewWaterfallLayout
+    - GRDB.swift
+    - HandyJSON
+    - InputBarAccessoryView
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - Kingfisher
+    - LeanCloud
+    - lottie-ios
+    - MessageKit
+    - MHVerifyCodeView
+    - SDWebImage
+    - SKPhotoBrowser
+    - SnapKit
+    - SwiftProtobuf
+    - TransitionButton
+
+SPEC CHECKSUMS:
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  AlamofireImage: 843953fa97bee5f561cf05d83abd759e590b068d
+  CHTCollectionViewWaterfallLayout: b989a459788d7657ac010e03bc0f7eedca95a420
+  GRDB.swift: a6b7e9900aa300d0cbf1f1c5f47b8f32ae51e30c
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  InputBarAccessoryView: 1d7b0a672b36e370f01f264b3907ef39d03328e3
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  LeanCloud: 808532530fae85682b1747bf248bb3dc64a37f13
+  lottie-ios: c69214a487e1a1465a231c1918c6ce174e2d45bc
+  MessageKit: a1ba0c69ebead94029867853eb44dd05b9b3f453
+  MHVerifyCodeView: 79e42e1e0e358a3e2fb9555d180f4083569f7224
+  SDWebImage: ebdbcebc7933a45226d9313bd0118bc052ad458b
+  SKPhotoBrowser: cd95b95a6f352fc2a50992721299f75ead77f9ab
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftProtobuf: b70d65f419fbfe61a2d58003456ca5da58e337d6
+  TransitionButton: 36283346e17c64775a1b3bc3a7a72940a367de1f
+
+PODFILE CHECKSUM: b2742c387f15e09fafcdf738d989f0c7dbce30b0
+
+COCOAPODS: 1.11.3
