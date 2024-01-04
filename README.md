@@ -1,7 +1,7 @@
 # PetSharing Client (iOS - Swift - 2023)
 An iOS app written in swift and implemented with LeanCloud where you can share the live moments with your pets
 
-![PetSharing preview](https://lc-gluttony.s3.amazonaws.com/8LXa2sJ1EtbU/bcbrVMliiHDzRjgSjnOe1QDvKSCGPG7j/Blank%20diagram.png)
+![PetSharing preview](Screenshots.png)
 
 ## Features
 
