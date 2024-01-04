@@ -13,5 +13,5 @@ An iOS app written in swift and implemented with LeanCloud where you can share t
 * Browse all the dogs waiting to be adopt
 * DM with other users
 * View and edit your profile
-
+* View some pets' 3D model in real world
 
